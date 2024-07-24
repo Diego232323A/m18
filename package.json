@@ -1,0 +1,13 @@
+{
+    "name": "feedback_service",
+    "version": "1.0.0",
+    "description": "Microservice to manage customer feedback for hotel reservations",
+    "main": "feedbackService.js",
+    "scripts": {
+      "start": "node feedbackService.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
